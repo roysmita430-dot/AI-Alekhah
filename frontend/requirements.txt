@@ -1,0 +1,22 @@
+# Streamlit for frontend
+streamlit==1.28.2
+
+# Canvas to draw shapes
+streamlit-drawable-canvas==0.9.3
+
+# Numerical computations
+numpy==1.25.0
+scipy==1.11.3
+pandas==2.1.1
+
+# Plotting
+matplotlib==3.8.1
+
+# Image handling
+Pillow==10.1.0
+
+# HTTP requests to backend
+requests==2.32.0
+
+# Symbolic math (for LaTeX conversion)
+sympy==1.12
